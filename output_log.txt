@@ -1,0 +1,1359 @@
+Initialize engine version: 2017.4.10f1 (f2cce2a5991f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   26.21.14.4219
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.063 seconds
+OnLevelWasLoaded was found on GameMap
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on PlayMakerUnity2d
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.665000 ms
+Graphics tier changed to High
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Steam initializing
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Steam logged in as CODEX
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Selected online subsystem SteamOnlineSubsystem
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Discovered supported language: DE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Discovered supported language: EN
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Discovered supported language: ES
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Discovered supported language: FR
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Discovered supported language: IT
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Discovered supported language: JA
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Discovered supported language: KO
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Discovered supported language: PT
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Discovered supported language: RU
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Discovered supported language: ZH
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Loaded saved language code 'EN'
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Restored language code 'EN'
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3556.
+Total: 1.616000 ms (FindLiveObjects: 0.183700 ms CreateObjectMapping: 0.097300 ms MarkObjects: 1.326700 ms  DeleteObjects: 0.007900 ms)
+
+Steam stats received.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WARNING: Shader Unsupported: 'Sprites/Lit' - Pass '' has no vertex shader
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Didn't need to wait for PlayerPrefs load.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 3.964100 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+Performing automatic level start.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENDING_A
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENDING_B
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENDING_C
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for STEELSOUL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Heap size set to 1024 megabytes
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game controller set to None.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for PROTECTED
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for MASKED
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for CHARMED
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENCHANTED
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for BLESSED
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for SOULFUL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for WORLDSOUL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for FK_DEFEAT
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for DREAM_FK
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for HORNET_1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for HORNET_2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for DREAM_SOUL_MASTER_DEFEAT
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for BROKEN_VESSEL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for DUNG_DEFENDER
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for MANTIS_LORDS
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for COLLECTOR
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ZOTE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for NEGLECT
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ATTUNEMENT
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for AWAKENING
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ASCENSION
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for GRUBFRIEND
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for METAMORPHOSIS
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for NAILSMITH_KILL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for NAILSMITH_SPARE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for QUIRREL_EPILOGUE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for MOURNER
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for TRAITOR_LORD
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for STAG_STATION_HALF
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for STAG_STATION_ALL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for TEACHER
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for WATCHER
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for BEAST
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for MAP
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for COLOSSEUM_1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for COLOSSEUM_2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for COLOSSEUM_3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENDING_A
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENDING_B
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENDING_C
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for VOID
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for SPEEDRUN_1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for SPEEDRUN_2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for COMPLETION
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for SPEED_COMPLETION
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for STEELSOUL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for STEELSOUL_COMPLETION
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for HUNTER_1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for HUNTER_2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for MR_MUSHROOM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for WHITE_DEFENDER
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for GREY_PRINCE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for GRIMM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for NIGHTMARE_GRIMM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for BANISHMENT
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for PANTHEON1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for PANTHEON2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for PANTHEON3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for PANTHEON4
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENDINGD
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for COMPLETIONGG
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 44940.
+Total: 123.180900 ms (FindLiveObjects: 2.263000 ms CreateObjectMapping: 1.668800 ms MarkObjects: 119.165600 ms  DeleteObjects: 0.083200 ms)
+
+Making UI menu lean.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Deferring level start (marked as manual).
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Using fallback 1 to find tilemap. Scene Opening_Sequence requires manual fixing.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Using fallback 2 to find tilemap. Scene Opening_Sequence requires manual fixing.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to find tilemap in Opening_Sequence entirely.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Starting opening sequence.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Opening sequience changing sequences.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 184 unused Assets to reduce memory usage. Loaded Objects now: 41799.
+Total: 118.988200 ms (FindLiveObjects: 1.972600 ms CreateObjectMapping: 1.410900 ms MarkObjects: 112.884100 ms  DeleteObjects: 2.720200 ms)
+
+Opening sequience skipping.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Started cinematic 'Prologue'
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Opening sequience changing sequences.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Started cinematic 'Prologue'
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Opening sequience skipping.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Skipped cinematic 'Prologue'
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopped cinematic 'Prologue'
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Started cinematic 'Intro'
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Opening sequience changing sequences.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Started cinematic 'Intro'
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Opening sequience skipping.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Skipped cinematic 'Intro'
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopped cinematic 'Intro'
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Opening sequience changing sequences.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Knight : Dream Return
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Knight : Dream Nail
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Knight : Surface Water
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Knight : Nail Arts
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Knight : Superdash
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Knight : Roar Lock
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Knight : Map Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Knight : Spell Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Charm Effects : Thorn Counter
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayMakerUnity2DProxy requires the 'PlayMaker Unity 2D' Prefab in the Scene.
+Use the menu 'PlayMaker/Addons/Unity 2D/Components/Add PlayMakerUnity2D to Scene' to correct the situation
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayMakerUnity2DProxy requires the 'PlayMaker Unity 2D' Prefab in the Scene.
+Use the menu 'PlayMaker/Addons/Unity 2D/Components/Add PlayMakerUnity2D to Scene' to correct the situation
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayMakerUnity2DProxy requires the 'PlayMaker Unity 2D' Prefab in the Scene.
+Use the menu 'PlayMaker/Addons/Unity 2D/Components/Add PlayMakerUnity2D to Scene' to correct the situation
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayMakerUnity2DProxy requires the 'PlayMaker Unity 2D' Prefab in the Scene.
+Use the menu 'PlayMaker/Addons/Unity 2D/Components/Add PlayMakerUnity2D to Scene' to correct the situation
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayMakerUnity2DProxy requires the 'PlayMaker Unity 2D' Prefab in the Scene.
+Use the menu 'PlayMaker/Addons/Unity 2D/Components/Add PlayMakerUnity2D to Scene' to correct the situation
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayMakerUnity2DProxy requires the 'PlayMaker Unity 2D' Prefab in the Scene.
+Use the menu 'PlayMaker/Addons/Unity 2D/Components/Add PlayMakerUnity2D to Scene' to correct the situation
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayMakerUnity2DProxy requires the 'PlayMaker Unity 2D' Prefab in the Scene.
+Use the menu 'PlayMaker/Addons/Unity 2D/Components/Add PlayMakerUnity2D to Scene' to correct the situation
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.334900 ms
+FSM not Preprocessed: Mr Mushroom NPC (1) : npc_control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Buzzer 1 : flyer_receive_direction_msg
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Buzzer 1 : chaser
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Tut_tablet_top : Inspection
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Glow Bug : glow_bug
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Glow Bug 2 : glow_bug
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Glow Bug 10 : glow_bug
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Glow Bug 14 : glow_bug
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Glow Bug 1 : glow_bug
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Tut_tablet_top (1) : Inspection
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Buzzer 2 : flyer_receive_direction_msg
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Buzzer 2 : chaser
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Glow Bug 8 (1) : glow_bug
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Glow Bug 16 : glow_bug
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Glow Bug 15 : glow_bug
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Glow Bug 8 : glow_bug
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Glow Bug 4 : glow_bug
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Glow Bug 3 : glow_bug
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Buzzer : flyer_receive_direction_msg
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Buzzer : chaser
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Tut_tablet_top (2) : Inspection
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Performing automatic level start.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 181 unused Assets to reduce memory usage. Loaded Objects now: 63223.
+Total: 170.032000 ms (FindLiveObjects: 2.883400 ms CreateObjectMapping: 2.319800 ms MarkObjects: 163.912800 ms  DeleteObjects: 0.915700 ms)
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Plat Rocks prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Plat Rocks prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Plat Dust prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Plat Stream Dust prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Plat Dust prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Plat Stream Dust prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Plat Dust prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Plat Stream Dust prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Plat Rocks prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Plat Dust prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Plat Rocks prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Plat Stream Dust prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Plat Rocks prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (1) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (2) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (3) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (4) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (5) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (6) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (7) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (8) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (1) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (2) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (3) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (4) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (5) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (6) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (7) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Spatter Blue Heal (8) : Spatter Healer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool could not find a copy of Screen Flash, Instantiating a new one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Screen Flash prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Knight Spike Death(Clone) : Knight Death Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Mines Exit Lift : Lift Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: RestBench : Bench Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Zote Final : npc_control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Elderbug : npc_control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Zote Town : npc_control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Gravedigger NPC : npc_control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Inspect Region : inspect_region
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Jiji Door : npc_control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Elderbug Grimm : npc_control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Deferring level start (marked as manual).
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Zombie Runner : Zombie Swipe
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Inspect Region : inspect
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Shiny Item : Shiny Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Zombie Runner 1 : Zombie Swipe
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Deferring level start (marked as manual).
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 3 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 5 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 6 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 1 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Breakable Wall_Silhouette : breakable_wall_v2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 2 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 10 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 7 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 4 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Deferring level start (marked as manual).
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Cornifer Card : npc_control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Cornifer : npc_control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Deferring level start (marked as manual).
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerData: Could not find field named , check variable name exists and FSM variable string is correct.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 3 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 5 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 6 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 1 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Breakable Wall_Silhouette : breakable_wall_v2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 2 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 10 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 7 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Fly 4 : Bouncer Control
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Deferring level start (marked as manual).
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.090200 ms
+Deferring level start (marked as manual).
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2959 unused Assets to reduce memory usage. Loaded Objects now: 51602.
+Total: 178.506500 ms (FindLiveObjects: 3.988100 ms CreateObjectMapping: 1.912500 ms MarkObjects: 152.020600 ms  DeleteObjects: 20.585100 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.663700 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+Performing automatic level start.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENDING_A
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENDING_B
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENDING_C
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for STEELSOUL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Heap size set to 1024 megabytes
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game controller set to None.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for PROTECTED
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for MASKED
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for CHARMED
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENCHANTED
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for BLESSED
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for SOULFUL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for WORLDSOUL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for FK_DEFEAT
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for DREAM_FK
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for HORNET_1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for HORNET_2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for DREAM_SOUL_MASTER_DEFEAT
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for BROKEN_VESSEL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for DUNG_DEFENDER
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for MANTIS_LORDS
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for COLLECTOR
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ZOTE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for NEGLECT
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ATTUNEMENT
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for AWAKENING
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ASCENSION
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for GRUBFRIEND
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for METAMORPHOSIS
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for NAILSMITH_KILL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for NAILSMITH_SPARE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for QUIRREL_EPILOGUE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for MOURNER
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for TRAITOR_LORD
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for STAG_STATION_HALF
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for STAG_STATION_ALL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for TEACHER
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for WATCHER
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for BEAST
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for MAP
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for COLOSSEUM_1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for COLOSSEUM_2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for COLOSSEUM_3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENDING_A
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENDING_B
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENDING_C
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for VOID
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for SPEEDRUN_1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for SPEEDRUN_2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for COMPLETION
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for SPEED_COMPLETION
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for STEELSOUL
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for STEELSOUL_COMPLETION
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for HUNTER_1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for HUNTER_2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for MR_MUSHROOM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for WHITE_DEFENDER
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for GREY_PRINCE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for GRIMM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for NIGHTMARE_GRIMM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for BANISHMENT
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for PANTHEON1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for PANTHEON2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for PANTHEON3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for PANTHEON4
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for ENDINGD
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to retrieve achievement state for COMPLETIONGG
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+pd.maxHealth: 5 pd.maxHealthBase: 5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 385 unused Assets to reduce memory usage. Loaded Objects now: 46336.
+Total: 137.417700 ms (FindLiveObjects: 3.009500 ms CreateObjectMapping: 2.884900 ms MarkObjects: 127.128500 ms  DeleteObjects: 4.394400 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 29cc -> priority: 1 
+  Thread -> id: 3394 -> priority: 1 
+Shutting down Steam API.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
